@@ -1,7 +1,10 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Welcome+to+Senior+Bloclchain+!)](https://seniorblockchain.io)
 
 <p align="justify">
-Senior Blockchain is a powerful and flexible Blockchain development platform designed for the needs of real-world financial services businesses and other organizations that want to develop, test, and deploy applications on the blockchain And raise capital for their projects or build their projects in the metaverse. Senior Blockchain significantly simplifies the development process for creating Blockchain applications and accelerates the development lifecycle for blockchain development projects. Senior Blockchain private chains allow businesses to deploy their customized blockchains without the overheads inherent in running their blockchain network infrastructure. Senior Blockchain’s turnkey solution enables developers and businesses to create, test and deploy blockchain-based applications quickly and easily, all without the costs and security concerns that would otherwise arise from an in-house implementation.
+At Senior Blockchain, our mission is to revolutionize the way businesses operate by harnessing the power of blockchain technology. We strive to create innovative, scalable, and secure solutions tailored to the needs of all enterprises. Our goal is to democratize access to investment opportunities in projects and ideas, empowering people from all around the world to contribute and benefit from the growth of the blockchain ecosystem.
+</p>
+<p align="justify">
+Our vision is to become a global leader in the blockchain industry by fostering a culture of innovation, collaboration, and transparency. We envision a future, where businesses seamlessly integrate blockchain technology into their operations, enhancing efficiency, security, and trust among stakeholders. By creating a decentralized investment platform, we aspire to bridge the gap between traditional finance and the emerging digital economy, promoting financial inclusion and driving sustainable growth for all.
 </p>
 <h3 align="left">Connect us:</h3>
 
